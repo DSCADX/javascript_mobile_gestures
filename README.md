@@ -1,2 +1,2 @@
-# javascript_mobile_gestures
+# Javascript Mobile Gestures
 Library of  javascript  to use basic mobile gestures easily
